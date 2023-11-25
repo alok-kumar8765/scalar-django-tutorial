@@ -1,0 +1,1 @@
+# scalar-django-tutorial
